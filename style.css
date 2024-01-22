@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    background: linear-gradient(0deg, rgba(9,4,74,1) 0%, rgba(14,160,204,1) 58%, rgba(15,197,235,1) 100%);
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+}
+
+.avatar {
+    border-radius: 25px;
+    width: 400px;
+}
+
+.social {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.aref {
+    text-align: center;
+}
+
+.faces {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.hobbi {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.forma h2 {
+    text-align: center;
+}
+
+.group {
+    text-align: center;
+    padding: 1px;
+}
+
+.djoker {
+    padding-top: 500px;
+    text-align: center;
+}
+
+
